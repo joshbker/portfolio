@@ -1,0 +1,84 @@
+{
+    "work": [
+        {
+            "name": "Virtual Ventures",
+            "role": "Lead Developer & Designer",
+            "time": {
+                "from": "2022",
+                "to": "Present"
+            },
+            "info": {
+                "logo": "virtualventures.png",
+                "link": "https://virtualventures.io"
+            }
+        },
+        {
+            "name": "UK SBS",
+            "role": "Software Engineer",
+            "time": {
+                "from": "2021",
+                "to": "Present"
+            },
+            "info": {
+                "logo": "uksbs.png",
+                "link": "https://uksbs.co.uk"
+            }
+        },
+        {
+            "name": "AuraSide",
+            "role": "Junior Java Developer",
+            "time": {
+                "from": "2020",
+                "to": "2021"
+            },
+            "info": {
+                "logo": "auraside.png",
+                "link": "https://auraside.com"
+            }
+        }
+    ],
+    "education": [
+        {
+            "name": "New College",
+            "role": "Apprentice Software Developer",
+            "time": {
+                "from": "2021",
+                "to": "Present"
+            },
+            "info": {
+                "logo": "new-college.png",
+                "link": "https://newcollege.ac.uk"
+            }
+        },
+        {
+            "name": "Faringdon Community College",
+            "role": "Student",
+            "time": {
+                "from": "2017",
+                "to": "2021"
+            },
+            "info": {
+                "logo": "fcc.png",
+                "link": "https://fccoxon.co.uk"
+            }
+        }
+    ],
+    "projects": [
+        {
+            "logo": "mclicense.png",
+            "name": "MCLicense",
+            "description": "A licensing solution rich with features to help prevent leaking and unauthorised sharing of your Minecraft plugins.",
+            "slug": "mclicense",
+            "link": "https://mclicense.org",
+            "github": "mc-license"
+        },
+        {
+            "logo": "learnspigot.png",
+            "name": "LearnSpigot",
+            "description": "The world's most sold Minecraft course - teaching new developers how to develop plugins for their servers.",
+            "slug": "learnspigot",
+            "link": "https://learnspigot.com",
+            "github": "learnspigot"
+        }
+    ]
+}
