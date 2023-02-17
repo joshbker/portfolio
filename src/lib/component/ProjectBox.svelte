@@ -5,7 +5,7 @@
     {#each experience.projects as project}
         <div class="flex flex-col space-y-4">
             <div class="min-w-[3rem] w-[3rem] aspect-square bg-[#27272a] border-[1px] p-1.5 border-[#3F3F46] rounded-full">
-                <img src="/src/lib/image/{project.logo}" alt="" class="rounded-full">
+                <img src="/image/{project.logo}" alt="" class="rounded-full">
             </div>
             <div class="flex flex-col space-y-2">
                 <h3 class="font-heading text-white text-lg">{project.name}</h3>

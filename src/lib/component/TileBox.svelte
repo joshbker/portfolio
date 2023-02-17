@@ -1,13 +1,13 @@
 <script>
     import Tile from "$lib/component/Tile.svelte";
-    import tailwindLogo from '$lib/image/skills/tailwindcss-mark.svg';
-    import svelteLogo from '$lib/image/skills/svelte.png';
-    import tsLogo from '$lib/image/skills/ts.png';
-    import jsLogo from '$lib/image/skills/js.png';
-    import javaLogo from '$lib/image/skills/java.png';
-    import figmaLogo from '$lib/image/skills/figma.png';
-    import mongoLogo from '$lib/image/skills/mongodb.png';
-    import jetbrainsLogo from '$lib/image/skills/jetbrains.png';
+    import tailwindLogo from '$lib/skills/tailwindcss-mark.svg';
+    import svelteLogo from '$lib/skills/svelte.png';
+    import tsLogo from '$lib/skills/ts.png';
+    import jsLogo from '$lib/skills/js.png';
+    import javaLogo from '$lib/skills/java.png';
+    import figmaLogo from '$lib/skills/figma.png';
+    import mongoLogo from '$lib/skills/mongodb.png';
+    import jetbrainsLogo from '$lib/skills/jetbrains.png';
 </script>
 
 <div class="">

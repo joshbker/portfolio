@@ -16,7 +16,7 @@
         {#each (work ? experience.work : experience.education) as item}
             <a href="{item.info.link}" target="_blank" rel="noreferrer" class="flex space-x-6 w-full hover:bg-[#242429] transition-colors rounded-xl p-3">
                 <div class="min-w-[3rem] w-[3rem] aspect-square bg-[#27272a] border-[1px] p-1.5 border-[#3F3F46] rounded-full">
-                    <img src="/src/lib/image/{item.info.logo}" alt="" class="rounded-full">
+                    <img src="/image/{item.info.logo}" alt="" class="rounded-full">
                 </div>
                 <div class="flex flex-col w-full">
                     <h4 class="text-white text-base">{item.name}</h4>
