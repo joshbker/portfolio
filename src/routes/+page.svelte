@@ -1,13 +1,17 @@
 <script lang="ts">
-    import cat from '$lib/image/cat.png';
+    import pfp from '$lib/image/pfp.png';
     import TileBox from '$lib/component/TileBox.svelte';
     import ExperienceBox from '$lib/component/ExperienceBox.svelte';
     import ProjectBox from '$lib/component/ProjectBox.svelte';
 </script>
 
+<svelte:head>
+    <title>Josh Baker</title>
+</svelte:head>
+
 <div class="flex flex-col space-y-10">
     <div class="flex flex-col space-y-6 items-start">
-        <img src={cat} alt="" class="h-20 rounded-full aspect-square">
+        <img src={pfp} alt="" class="h-20 rounded-full aspect-square">
         <div class="flex flex-col space-y-4">
             <h1 class="text-white font-heading text-5xl lg:w-[65%]">Software developer, designer, and avid gamer.</h1>
             <p class="text-[#9898A5] text-lg lg:w-[55%]">I'm Josh, a software developer and designer based in England. I head up the development and design of services at <a href="https://virtualventures.io" class="font-medium hover:underline hover:text-white transition-colors">Virtual Ventures</a>, where we create products to empower freelancers and our clients.</p>
