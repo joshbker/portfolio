@@ -14,9 +14,9 @@
     </div>
     <div>
         {#each (work ? experience.work : experience.education) as item}
-            <a href="{item.info.link}" target="_blank" rel="noreferrer" class="flex space-x-6 w-full hover:bg-[#242429] transition-colors rounded-xl p-3">
-                <div class="min-w-[3rem] w-[3rem] aspect-square bg-[#27272a] border-[1px] p-1.5 border-[#3F3F46] rounded-full">
-                    <img src="/image/{item.info.logo}" alt="" class="rounded-full">
+            <a href="{item.info.link}" target="_blank" rel="noreferrer" class="flex space-x-6 w-full group transition-all hover:bg-[#242429] rounded-xl p-3">
+                <div class="min-w-[3rem] w-[3rem] aspect-square bg-[#27272a] border-[1px] border-[#3F3F46] rounded-full flex items-center justify-center">
+                    <img src="/image/{item.info.logo}" alt="" class="rounded-full h-8 aspect-square group-hover:scale-110 transition-transform">
                 </div>
                 <div class="flex flex-col w-full">
                     <h4 class="text-white text-base">{item.name}</h4>

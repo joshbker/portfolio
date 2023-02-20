@@ -4,9 +4,9 @@
 <div class="flex flex-col space-y-10">
     {#each experience.projects as project}
         <div class="flex flex-col space-y-4">
-            <div class="min-w-[3rem] w-[3rem] aspect-square bg-[#27272a] border-[1px] p-1.5 border-[#3F3F46] rounded-full">
-                <img src="/image/{project.logo}" alt="" class="rounded-full">
-            </div>
+            <a href={project.link} class="min-w-[3rem] w-[3rem] aspect-square bg-[#27272a] border-[1px] border-[#3F3F46] rounded-full group flex items-center justify-center">
+                <img src="/image/{project.logo}" alt="" class="rounded-full h-8 aspect-square group-hover:scale-110 transition-transform">
+            </a>
             <div class="flex flex-col space-y-2">
                 <h3 class="font-heading text-white text-lg">{project.name}</h3>
                 <p class="text-[#9898A5] text-base">{project.description}</p>
