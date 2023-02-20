@@ -1,15 +1,15 @@
 {
     "work": [
         {
-            "name": "Virtual Ventures",
+            "name": "Flyte",
             "role": "Chief Technology Officer",
             "time": {
                 "from": "2022",
                 "to": "Present"
             },
             "info": {
-                "logo": "virtualventures.png",
-                "link": "https://virtualventures.io"
+                "logo": "flyte.png",
+                "link": "https://flyte.gg"
             }
         },
         {
