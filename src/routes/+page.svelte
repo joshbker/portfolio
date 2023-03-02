@@ -14,7 +14,7 @@
         <img src={pfp} alt="" class="h-24 rounded-full aspect-square">
         <div class="flex flex-col space-y-4">
             <h1 class="text-white font-heading text-5xl lg:w-[65%]">Software developer, designer, and avid gamer.</h1>
-            <p class="text-[#9898A5] text-lg lg:w-[55%]">I'm Josh, a software developer and designer based in England. I head up the development and design of services at <a href="https://virtualventures.io" class="font-medium hover:underline hover:text-white transition-colors">Virtual Ventures</a>, where we create products to empower freelancers and our clients.</p>
+            <p class="text-[#9898A5] text-lg lg:w-[55%]">I'm Josh, a software developer and designer based in England. I head up the development and design of services at <a href="https://flyte.gg" class="font-medium hover:underline hover:text-white transition-colors">Flyte</a>, where we create products to empower freelancers and our clients.</p>
         </div>
     </div>
     <div class="flex space-x-6">
@@ -24,9 +24,9 @@
         <a href="https://www.linkedin.com/in/joshbker/" target="_blank" rel="noreferrer"><svg class="h-6 fill-[#9898A5] hover:fill-white transition-colors" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Pro 6.3.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d="M416 32H31.9C14.3 32 0 46.5 0 64.3v383.4C0 465.5 14.3 480 31.9 480H416c17.6 0 32-14.5 32-32.3V64.3c0-17.8-14.4-32.3-32-32.3zM135.4 416H69V202.2h66.5V416zm-33.2-243c-21.3 0-38.5-17.3-38.5-38.5S80.9 96 102.2 96c21.2 0 38.5 17.3 38.5 38.5 0 21.3-17.2 38.5-38.5 38.5zm282.1 243h-66.4V312c0-24.8-.5-56.7-34.5-56.7-34.6 0-39.9 27-39.9 54.9V416h-66.4V202.2h63.7v29.2h.9c8.9-16.8 30.6-34.5 62.9-34.5 67.2 0 79.7 44.3 79.7 101.9V416z"/></svg></a>
     </div>
 </div>
-<div class="flex justify-between space-y-10 space-x-16 mt-10">
+<div class="flex flex-col lg:flex-row justify-between space-y-10 space-x-16 mt-10">
     <div class="flex flex-col">
-        <h2 class="font-heading text-white text-2xl">Check out my experience with different languages, frameworks, tools<br>and more.</h2>
+        <h2 class="font-heading text-white text-2xl lg:w-[80%]">Check out my experience with different languages, frameworks, tools and more.</h2>
         <a href="/skills" class="font-heading text-[#9898A5] hover:text-white text-lg group transition-colors z-20 mt-3 flex items-center space-x-2 self-start">
             <span>Take a look</span>
             <svg class="fill-[#9898A5] group-hover:fill-white h-5 inline-block ml-1 group-hover:translate-x-1 transition-all" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Pro 6.2.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. --><path d="M438.6 278.6c12.5-12.5 12.5-32.8 0-45.3l-160-160c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3L338.8 224 32 224c-17.7 0-32 14.3-32 32s14.3 32 32 32l306.7 0L233.4 393.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0l160-160z"/></svg>
