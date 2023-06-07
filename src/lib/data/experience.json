@@ -82,15 +82,23 @@
             "description": "A licensing solution rich with features to help prevent leaking and unauthorised sharing of your Minecraft plugins.",
             "slug": "mclicense",
             "link": "https://mclicense.org",
-            "github": "mc-license"
+            "discord": "mclicense"
         },
         {
             "logo": "learnspigot.png",
-            "name": "LearnSpigot",
+            "name": "learnspigot",
             "description": "The world's most sold Minecraft course - teaching new developers how to develop plugins for their servers.",
             "slug": "learnspigot",
             "link": "https://learnspigot.com",
-            "github": "learnspigot"
+            "discord": "learnspigot"
+        },
+        {
+            "logo": "galamo.png",
+            "name": "Galamo",
+            "description": "Rocket League Esports team, revolutionising the scene and helping players achieve the best.",
+            "slug": "galamo",
+            "link": "https://galamo.gg",
+            "discord": "vvgNxg9rBz"
         }
     ]
 }
