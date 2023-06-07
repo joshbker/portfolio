@@ -1,6 +1,18 @@
 {
     "work": [
         {
+            "name": "UK SBS",
+            "role": "Software Developer",
+            "time": {
+                "from": "2023",
+                "to": "Present"
+            },
+            "info": {
+                "logo": "uksbs.png",
+                "link": "https://uksbs.co.uk"
+            }
+        },
+        {
             "name": "Flyte",
             "role": "Lead Developer & Designer",
             "time": {
@@ -14,10 +26,10 @@
         },
         {
             "name": "UK SBS",
-            "role": "Software Engineer",
+            "role": "Apprentice",
             "time": {
                 "from": "2021",
-                "to": "Present"
+                "to": "2023"
             },
             "info": {
                 "logo": "uksbs.png",
