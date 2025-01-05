@@ -1,8 +1,8 @@
 {
     "work": [
         {
-            "name": "UK SBS",
-            "role": "Software Developer",
+            "name": "UKSBS",
+            "role": "Software Engineer",
             "time": {
                 "from": "2023",
                 "to": "Present"
@@ -14,7 +14,7 @@
         },
         {
             "name": "Flyte",
-            "role": "Lead Developer & Designer",
+            "role": "Software Engineer & Designer",
             "time": {
                 "from": "2022",
                 "to": "Present"
@@ -25,8 +25,8 @@
             }
         },
         {
-            "name": "UK SBS",
-            "role": "Apprentice",
+            "name": "UKSBS",
+            "role": "Apprentice SWE",
             "time": {
                 "from": "2021",
                 "to": "2023"
@@ -37,7 +37,7 @@
             }
         },
         {
-            "name": "AuraSide",
+            "name": "Auraside",
             "role": "Junior Java Developer",
             "time": {
                 "from": "2020",
@@ -52,7 +52,7 @@
     "education": [
         {
             "name": "New College",
-            "role": "Apprentice Software Developer",
+            "role": "Apprentice SWE",
             "time": {
                 "from": "2021",
                 "to": "Present"
@@ -78,11 +78,27 @@
     "projects": [
         {
             "logo": "mclicense.png",
-            "name": "MCLicense",
+            "name": "MC License",
             "description": "A licensing solution rich with features to help prevent leaking and unauthorised sharing of your Minecraft plugins.",
             "slug": "mclicense",
             "link": "https://mclicense.org",
             "discord": "mclicense"
+        },
+        {
+            "logo": "mc-utils.png",
+            "name": "MC Utils",
+            "description": "Community powered Minecraft utilities for developers, builders and players.",
+            "slug": "mcutils",
+            "link": "https://mcutils.com",
+            "discord": "flyte"
+        },
+        {
+            "logo": "twilight.png",
+            "name": "twilight",
+            "description": "A Kotlin API for Spigot/Paper Minecraft servers providing essential utilities to streamline development.",
+            "slug": "twilight",
+            "link": "https://github.com/flytegg/twilight",
+            "discord": "flyte"
         },
         {
             "logo": "learnspigot.png",
@@ -91,14 +107,6 @@
             "slug": "learnspigot",
             "link": "https://learnspigot.com",
             "discord": "learnspigot"
-        },
-        {
-            "logo": "galamo.png",
-            "name": "Galamo",
-            "description": "Rocket League Esports team, revolutionising the scene and helping players achieve the best.",
-            "slug": "galamo",
-            "link": "https://galamo.gg",
-            "discord": "vvgNxg9rBz"
         }
     ]
 }
