@@ -13,30 +13,30 @@
 <div class="">
     <div>
         <div class="-translate-x-[9rem] translate-y-[2.75rem]">
-            <Tile logo={kotlinLogo} name="Kotlin" shadowColor={[255, 62, 0]} />
+            <Tile logo={kotlinLogo} name="Kotlin" shadowColor={[146, 138, 230]} />
         </div>
         <div class="">
-            <Tile logo={javaLogo} name="Java" shadowColor={[56, 189, 248]} />
+            <Tile logo={javaLogo} name="Java" shadowColor={[240, 63, 51]} />
         </div>
         <div class="translate-x-[9rem] -translate-y-[2.75rem]">
-            <Tile logo={svelteLogo} name="Svelte" shadowColor={[10, 207, 131]} />
+            <Tile logo={svelteLogo} name="Svelte" shadowColor={[255, 62, 0]} />
         </div>
         <div class="translate-x-[18rem] -translate-y-[5.5rem]">
-            <Tile logo={jsLogo} name="JavaScript" shadowColor={[240, 63, 51]} />
+            <Tile logo={jsLogo} name="JavaScript" shadowColor={[240, 219, 79]} />
         </div>
     </div>
     <div class="translate-y-[6.5rem] translate-x-[6rem]">
         <div class="-translate-x-[9rem] translate-y-[2.75rem]">
-            <Tile logo={tailwindLogo} name="Tailwind" shadowColor={[10, 207, 131]} />
+            <Tile logo={tailwindLogo} name="Tailwind" shadowColor={[56, 189, 248]} />
         </div>
         <div class="">
-            <Tile logo={figmaLogo} name="Figma" shadowColor={[240, 219, 79]} />
+            <Tile logo={figmaLogo} name="Figma" shadowColor={[10, 207, 131]} />
         </div>
         <div class="translate-x-[9rem] -translate-y-[2.75rem]">
-            <Tile logo={mongoLogo} name="MongoDB" shadowColor={[254, 49, 93]} />
+            <Tile logo={mongoLogo} name="MongoDB" shadowColor={[10, 207, 131]} />
         </div>
         <div class="translate-x-[18rem] -translate-y-[5.5rem]">
-            <Tile logo={jetbrainsLogo} name="IntelliJ" shadowColor={[49, 120, 198]} />
+            <Tile logo={jetbrainsLogo} name="IntelliJ" shadowColor={[254, 49, 93]} />
         </div>
     </div>
 </div>
